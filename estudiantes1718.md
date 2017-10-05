@@ -7,7 +7,7 @@
 <!-- aquí el listado de miembros del grupo 1 -->
 
 
-## Grupo 2. Igualdad de género
+## Grupo 2. Igualdad de género (https://github.com/orgs/DeustoPWEB/teams/grupo-2/members)
 <!-- aquí el listado de miembros del grupo 2 -->
 
 - :ballot_box_with_check: [Juanicorena Idiart, Ainhoa](http://ajuanicorena.github.io)
