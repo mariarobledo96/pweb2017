@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pu",
+				"push"
+			],
+			[
 				"Git",
 				"GitHub"
 			]
@@ -12,44 +16,75 @@
 	"buffers":
 	[
 		{
-			"file": "/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/planes/lista-2017.md",
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/README.md",
 			"settings":
 			{
-				"buffer_size": 12964,
+				"buffer_size": 6466,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/06-crear-branch.md",
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
 			"settings":
 			{
-				"buffer_size": 1233,
+				"buffer_size": 259,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/branching.md",
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
 			"settings":
 			{
-				"buffer_size": 910,
-				"encoding": "UTF-8",
+				"buffer_size": 24,
 				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Makefile/Make.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "markdown table",
+		"height": 392.0,
+		"last_filter": "inser",
 		"selected_items":
 		[
+			[
+				"inser",
+				"InsertDate: Default"
+			],
+			[
+				"insert",
+				"Preferences: InsertDate Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
 			[
 				"markdown table",
 				"MarkdownTableFormatter: format table"
@@ -79,10 +114,6 @@
 				"Pandoc"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"packa",
 				"Install Package Control"
 			]
@@ -107,9 +138,80 @@
 	},
 	"expanded_folders":
 	[
+		"/D/git-repos/DeustoPWEB/plantilla-proyecto-web"
 	],
 	"file_history":
 	[
+		"/D/git-repos/LLL/formacion/mezcla-causas.md",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
+		"/D/git-repos/DeustoPWEB/pweb2017/estudiantes1718.md",
+		"/D/git-repos/DeustoPWEB/on-demand-github-pages/_pages/ReiB.yaml",
+		"/D/git-repos/mberasategi.github.io/_config.yml",
+		"/D/git-repos/mberasategi.github.io/_pages/test.md",
+		"/D/git-repos/mberasategi.github.io/_sass/minimal-mistakes/_variables.scss",
+		"/D/git-repos/mberasategi.github.io/_posts/2015-05-26-nathan-yau-about-writing.md",
+		"/D/git-repos/mberasategi.github.io/_data/navigation.yml",
+		"/D/git-repos/mberasategi.github.io/_posts/2015-11-20-evan-smith-future-of-news.md",
+		"/D/git-repos/DeustoPWEB/on-demand-github-pages/_pages/mbolam.yaml",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/D/git-repos/mberasategi.github.io/_includes/head/custom.html",
+		"/D/git-repos/DeustoPWEB/training-kit/_config.yml",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/16-colaborar.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/05-clonar-repositorio-en-local.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/02-install-desktop.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/01-introduccion.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/pull-request.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/merge-pr.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/colaborar.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/branching.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_data/navigation.yml",
+		"/D/git-repos/LLL/formacion/documento-parto.md",
+		"/D/git-repos/DeustoPWEB/pweb2017/pweb.sublime-project",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/17-merge.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/16-merge-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/desktopsurvey.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/merge-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/16-colaborar.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/colaborar.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/help-gh102-103-404-es.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/15-collaborar-prs.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/15-push-y-abrir-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/09-abrir-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/12-añadir-repo-clase.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/12-sync-repo-local.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_data/navigation.yml",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/11-ver-tu-sitio.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/10-merge-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/07-merge-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/08-nuevos-commits-desktop.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/makefile",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/cabecera.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/README.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/2-alcance.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/3-estructura.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/4-esqueleto.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/5-superficie.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/6-conclusiones.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/pandoc-command.sublime-build",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to PDF [test].sublime-build",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/pandoc-command",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/referencias.bib",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to PDF.sublime-build",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/pandoc-command",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/chicago-author-date-es.csl",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/2-esqueleto.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art2-ansiedad-estadistica/art2-ansiedad-estadistica.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/planes/lista-2017.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/branching.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/06-crear-branch.md",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/pweb.sublime-project",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/05-clonar-repositorio-en-local.md",
 		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/local-remote.md",
@@ -127,7 +229,6 @@
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/15-push-y-abrir-pr.md",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/06-crear-branch.md",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/07-hacer-cabios-locales.md",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/12-sync-repo-local.md",
 		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/08-nuevos-commits-desktop.md",
@@ -140,7 +241,6 @@
 		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/art1-planes-estudio-v.internet.md",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/groupspec.groupeng",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/2017-2018/grupos.md",
-		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/planes/lista-2017.md",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/grupos2017.csv",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/sample_group_specification.groupeng",
 		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/sample_group_specification_annotated.groupeng",
@@ -165,87 +265,26 @@
 		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
 		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
 		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Markdown + Critic.sublime-settings",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
 		"/D/Dropbox/Google Drive/github/sublimesettings-old/MultiMarkdown.sublime-settings",
 		"/D/Dropbox/Google Drive/github/sublimesettings-old/MarkdownPreview.sublime-settings",
 		"/D/Dropbox/Google Drive/github/sublimesettings-old/Markdown.sublime-settings",
 		"/D/Dropbox/Google Drive/github/sublimesettings-old/Markdown + Critic.sublime-settings",
-		"/D/Dropbox/Google Drive/github/sublimesettings-old/Default (Windows).sublime-keymap",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/D/Dropbox/Google Drive/github/sublimesettings-old/AcademicMarkdown.sublime-settings",
-		"/D/Dropbox/Google Drive/github/pweb2017/intro-to-github/intro-to-github.md",
-		"/D/Dropbox/Google Drive/github/pweb2017/README.md",
-		"/D/Dropbox/Google Drive/github/sublimesettings-old/Package Control.sublime-settings",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/D/Dropbox/Google Drive/github/sublimesettings-old/Preferences.sublime-settings",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/sublime3-license-2017.txt",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Local/License.sublime_license",
-		"/D/Dropbox/Google Drive/github/LLL/historiapersonal-acercademi.md",
-		"/D/Dropbox/Google Drive/github/LLL/includes/destete.md",
-		"/D/tmp/nombre.md",
-		"/C/Users/mberasat/.ssh/id_rsa.pub",
-		"/D/tmp/sublime3-license-2017.txt",
-		"/D/tmp/License.sublime_license",
-		"/D/Dropbox/Google Drive/github/pweb2017/intro-to-github/glosario.md",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to slides PDF.sublime-build",
-		"/D/Dropbox/Google Drive/github/training-kit/_config.yml",
-		"/D/Dropbox/Google Drive/github/training-kit/script/package",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/03-crear-branch.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/09-colaborar-en-github.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/06-merge-un-pr.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/10-editar-en-github.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/help-other-things-es.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/help-build-fail-es.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/02-unete-repo-clase.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/05a-colaborar-en-pull-request.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/08-crear-pull-request.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/04-crear-archivo-en-github.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/crear-issue.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/01-unirte-repo-intro.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/01-crear-cuenta-github.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github/00-create-github-account.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/02-gestionar-notificaciones.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/06-buscar-coordenadas.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/04-flujo-github.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/12-celebrar.md",
-		"/D/Dropbox/Google Drive/github/pweb2017/intro-to-github/git-para-usuarios-dropbox.md",
-		"/D/Dropbox/Google Drive/github/pweb2017/intro-to-github/reveal.js/css/theme/black.css",
-		"/D/Dropbox/Google Drive/github/pweb2017/intro-to-github/prueba.md",
-		"/D/Dropbox/Google Drive/github/gists/GitForDropboxUsers.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/11-haciendo-merge-pull-requests.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/09-colaborar-pull-request.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/06-buscar-coordenadas.mdown",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to slides reveal.js.sublime-build",
-		"/D/Dropbox/Google Drive/github/training-kit/script/bootstrap",
-		"/D/backups/backup20150831/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to slides reveal.js.sublime-build",
-		"/D/backups/backup20150831/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to slides reveal.js.htm.sublime-build",
-		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
-		"/D/backups/backup20150831/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
-		"/D/Dropbox/Google Drive/github/training-kit/script/setup",
-		"/D/Dropbox/Google Drive/github/pweb2017/markdown.md",
-		"/D/Dropbox/Google Drive/learning/aprendizaje-cooperativo/Aprendizaje cooperativo en el aula universitaria.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github/04-github-flow.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/03-exploring-repository.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/02-join-class-repo.md",
-		"/D/Dropbox/Google Drive/github/PWEB/README.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github/es_ES/00-welcome.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github/es_ES/01-create-github-account.md",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github/es_ES/03-exploring-repository.md",
-		"/D/Dropbox/Google Drive/github/training-kit/_layouts/simple-class_es.html",
-		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github/es_ES/02-join-class-repo.md",
-		"/D/Dropbox/Google Drive/github/training-kit/index_es.html",
-		"/D/Dropbox/Google Drive/github/training-kit/resources/learning-path/index_es.html",
-		"/D/tmp/software/License.sublime_license"
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 165.0
 	},
 	"find_in_files":
 	{
 		"height": 104.0,
 		"where_history":
 		[
+			"D:\\git-repos\\mberasategi.github.io\\_sass",
+			"D:\\git-repos\\mberasategi.github.io\\_sass\\minimal-mistakes",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\activity",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\tell-me-why-es",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\activity\\github-desktop-es"
 		]
 	},
 	"find_state":
@@ -253,6 +292,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" , ",
+			"linked",
+			"$global-font-family",
+			"Flow",
 			".",
 			"/github-desktop/",
 			"pdf",
@@ -319,11 +362,12 @@
 			"\\n"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": true,
 		"replace_history":
 		[
+			"\\n- [ ] ",
 			"/github-desktop-es/",
 			"| \\1",
 			"| \\1 | \\2 | \\3 | \\4 | \\5 | \\6 | \\7 |",
@@ -382,19 +426,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/planes/lista-2017.md",
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12964,
+						"buffer_size": 6466,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11276,
-								11276
+								0,
+								0
 							]
 						],
 						"settings":
@@ -404,7 +448,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5170.0,
+						"translation.y": 2392.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -412,26 +456,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/06-crear-branch.md",
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1233,
+						"buffer_size": 259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1215,
-								1215
+								203,
+								203
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -442,19 +484,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/branching.md",
-					"semi_transient": false,
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 910,
+						"buffer_size": 24,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								377,
-								377
+								24,
+								24
 							]
 						],
 						"settings":
@@ -462,7 +504,7 @@
 							"WordCount":
 							{
 								"changes": 0,
-								"count": 139,
+								"count": 3,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -523,7 +565,7 @@
 	{
 		"height": 106.0
 	},
-	"pinned_build_system": "Packages/User/Pandoc -- Markdown to slides reveal.js.sublime-build",
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
 	"project": "pweb.sublime-project",
 	"replace":
 	{
