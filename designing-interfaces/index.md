@@ -21,7 +21,7 @@ Cualquier página en un sitio web hace principalmente una de estas cosas:
 
 ---
 
-## Vistas alternativas
+## Vistas alternativas {#alternativas}
 
 <!--**Qué:** permite al usuario seleccionar vistas alternativas que son sustancialmente diferentes de la vista por defecto.
 
@@ -36,26 +36,19 @@ Cualquier página en un sitio web hace principalmente una de estas cosas:
 ## Vistas alternativas
 
 **Por qué:** a veces es imposible acomodar diferentes requerimientos al mismo tiempo: versiones para impresión, por ejemplo. 
-
---- 
-
-## Vistas alternativas
-
-Ejemplos:
-
-![Gmaps](img/googlemaps.png)
+-->
 
 ---
 
-## Vistas alternativas
+![Google Maps](img/googlemaps.png)
 
-Ejemplos:
+---
 
 ![CNN](img/cnn.png)
 
---- -->
-
 # Mostrar una lista o conjunto de cosas
+
+--- 
 
 Las listas presentan muchos retos:
 
@@ -70,17 +63,45 @@ Las listas presentan muchos retos:
 
 ---
 
+![EMS](img/easternmountain.png)
+
+---
+
+![CNET](img/cnet.png)
+
+---
+
+![Amazon](img/amazon.png)
+
+---
+
 ## Flujo de noticias
 
 --- 
 
+![Twitter](img/twitter.png)
+
+---
+
+![Digg](img/digg.png)
+
+---
+
+![Google News](img/googlenews.png)
+
 # Ofrecer herramientas para crear una cosa
+
+---
 
 Origen en software de escritorio tradicional: larga historia, amplia base de usuarios, estilos de interacción muy establecidos, utilizados a lo largo de muchos años. 
 
 ---
 
 ## Lienzo y paleta
+
+---
+
+![Raven by Aviary](img/raven.png)
 
 ---
 
@@ -92,7 +113,11 @@ Origen en software de escritorio tradicional: larga historia, amplia base de usu
 
 ---
 
+(ver [ejemplos anteriores](#alternativas))
+
 # Facilitar una tarea
+
+---
 
 Los formularios juegan un papel fundamental. 
 
@@ -104,4 +129,24 @@ Cuando la tarea es más compleja que la que puede alojarse en un área pequeña 
 
 ---
 
+![My Yahoo!](img/myyahoo.png)
+
+---
+
+![Mint](img/mint.png)
+
+---
+
 ## Editor de ajustes
+
+---
+
+![Perfil de Yahoo!](img/yahooprofile.png)
+
+---
+
+![Perfil de Facebook](img/facebookprofile.png)
+
+---
+
+![Perfil de Amazon](img/amazonaccounts.png)
