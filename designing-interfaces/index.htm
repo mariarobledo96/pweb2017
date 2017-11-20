@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Diseño de interfaces</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Diseño de interfaces</h1>
+</section>
+
+<section class="slide level2">
+
+<p>Jenifer Tidwell (2010), &quot;Chapter 2. Organizing the Content: Information Architecture and Application Structure&quot;, en <em>Designing Interfaces: Patterns for Effective Interaction Design</em>, pp. 25-76</p>
+</section>
+<section class="slide level2">
+
+<p>Cualquier página en un sitio web hace principalmente una de estas cosas:</p>
+<ol type="1">
+<li>Mostrar una única cosa</li>
+<li>Mosrtar una lista o conjunto de cosas</li>
+<li>Ofrecer herramientas para crear una cosa</li>
+<li>Facilitar una tarea</li>
+</ol>
+</section>
+<section><section id="mostrar-una-única-cosa" class="titleslide slide level1"><h1>Mostrar una única cosa</h1></section><section class="slide level2">
+
+<ul>
+<li>Página larga de texto con scroll vertical</li>
+<li>Intefaz con posibilidad de hacer zoom de artefactos muy grandes y con mucho detalle</li>
+<li>Un reproductor multimedia</li>
+</ul>
+</section><section id="vistas-alternativas" class="slide level2">
+<h2>Vistas alternativas</h2>
+<p><strong>Qué:</strong> permite al usuario seleccionar vistas alternativas que son sustancialmente diferentes de la vista por defecto.</p>
+</section><section id="vistas-alternativas-1" class="slide level2">
+<h2>Vistas alternativas</h2>
+<p><strong>Cuándo usarlo:</strong> cuando se está creado algo que muestra o edita un documento o lista complejo, o un mapa u otro contenido del estilo. Requerimientos que presentan coflictos directos unos con otros.</p>
+</section><section id="vistas-alternativas-2" class="slide level2">
+<h2>Vistas alternativas</h2>
+<p><strong>Por qué:</strong> a veces es imposible acomodar diferentes requerimientos al mismo tiempo: versiones para impresión, por ejemplo.</p>
+</section><section id="vistas-alternativas-3" class="slide level2">
+<h2>Vistas alternativas</h2>
+<p>Ejemplos:</p>
+<figure>
+<img src="img/googlemaps.png" alt="Gmaps" /><figcaption>Gmaps</figcaption>
+</figure>
+</section><section id="vistas-alternativas-4" class="slide level2">
+<h2>Vistas alternativas</h2>
+<p>Ejemplos:</p>
+<figure>
+<img src="img/cnn.png" alt="CNN" /><figcaption>CNN</figcaption>
+</figure>
+</section><section class="slide level2">
+
+</section></section>
+<section><section id="mostrar-una-lista-o-conjunto-de-cosas" class="titleslide slide level1"><h1>Mostrar una lista o conjunto de cosas</h1></section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
