@@ -32,6 +32,7 @@ Fuente: [Gigaom](https://gigaom.com/2014/08/25/open-journalism-also-means-openin
 
 <!--
     https://source.opennews.org/articles/when-news-calls-raw-data/
+    https://www.youtube.com/watch?v=vDGrfhJH1P4
 -->
 
 ---
