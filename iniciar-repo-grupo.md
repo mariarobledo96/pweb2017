@@ -4,7 +4,7 @@ Vais a crear un repositorio compartido para cada grupo, donde iréis realizando 
 
 Seguid estos pasos para iniciar este trabajo:
 
-1. Accede a [este enlace](https://classroom.github.com/g/er5wswCQ)
+1. Accede a ~~[este enlace](https://classroom.github.com/g/er5wswCQ)~~ [este enlace nuevo](https://classroom.github.com/g/rpt5aBbw)
 2. Es posible que tengas que autorizar a GitHub Classroom para que pueda acceder a tu cuenta. Asegúrate de que "DeustoPWEB" está activado en la sección **Organization access** y haz clic en el botón **Authorize github**
 
  <a href="img/githubclassroom-authorize.png"><img src="img/githubclassroom-authorize.png" width="200"  /></a>

@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pu",
+				"push"
+			],
+			[
+				"Git",
+				"GitHub"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/README.md",
+			"settings":
+			{
+				"buffer_size": 6466,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
+			"settings":
+			{
+				"buffer_size": 259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inser",
+		"selected_items":
+		[
+			[
+				"inser",
+				"InsertDate: Default"
+			],
+			[
+				"insert",
+				"Preferences: InsertDate Settings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"markdown table",
+				"MarkdownTableFormatter: format table"
+			],
+			[
+				"markdown ta",
+				"MarkdownTableFormatter: format table"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 508.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/git-repos/DeustoPWEB/plantilla-proyecto-web"
+	],
+	"file_history":
+	[
+		"/D/git-repos/LLL/formacion/mezcla-causas.md",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/.gitignore",
+		"/D/git-repos/DeustoPWEB/pweb2017/estudiantes1718.md",
+		"/D/git-repos/DeustoPWEB/on-demand-github-pages/_pages/ReiB.yaml",
+		"/D/git-repos/mberasategi.github.io/_config.yml",
+		"/D/git-repos/mberasategi.github.io/_pages/test.md",
+		"/D/git-repos/mberasategi.github.io/_sass/minimal-mistakes/_variables.scss",
+		"/D/git-repos/mberasategi.github.io/_posts/2015-05-26-nathan-yau-about-writing.md",
+		"/D/git-repos/mberasategi.github.io/_data/navigation.yml",
+		"/D/git-repos/mberasategi.github.io/_posts/2015-11-20-evan-smith-future-of-news.md",
+		"/D/git-repos/DeustoPWEB/on-demand-github-pages/_pages/mbolam.yaml",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/D/git-repos/mberasategi.github.io/_includes/head/custom.html",
+		"/D/git-repos/DeustoPWEB/training-kit/_config.yml",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/16-colaborar.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/05-clonar-repositorio-en-local.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/02-install-desktop.md",
+		"/D/git-repos/DeustoPWEB/training-kit/paths/github-desktop-es/01-introduccion.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/pull-request.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/merge-pr.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/colaborar.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_includes/tell-me-why-es/branching.md",
+		"/D/git-repos/DeustoPWEB/training-kit/_data/navigation.yml",
+		"/D/git-repos/LLL/formacion/documento-parto.md",
+		"/D/git-repos/DeustoPWEB/pweb2017/pweb.sublime-project",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/17-merge.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/16-merge-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/desktopsurvey.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/merge-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/16-colaborar.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/colaborar.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/help-gh102-103-404-es.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/15-collaborar-prs.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/15-push-y-abrir-pr.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/09-abrir-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/tell-me-why-es/pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/12-añadir-repo-clase.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/12-sync-repo-local.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_data/navigation.yml",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/11-ver-tu-sitio.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/10-merge-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/_includes/activity/github-desktop-es/07-merge-pull-request.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/training-kit/paths/github-desktop-es/08-nuevos-commits-desktop.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/makefile",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/cabecera.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/README.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/2-alcance.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/3-estructura.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/4-esqueleto.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/5-superficie.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/6-conclusiones.md",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/pandoc-command.sublime-build",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to PDF [test].sublime-build",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/pandoc-command",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/referencias.bib",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc -- Markdown to PDF.sublime-build",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/pandoc-command",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/recursos/chicago-author-date-es.csl",
+		"/D/Dropbox/Google Drive/github/DeustoPWEB/plantilla-proyecto-web/2-esqueleto.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art2-ansiedad-estadistica/art2-ansiedad-estadistica.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/planes/lista-2017.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/branching.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/06-crear-branch.md",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/pweb.sublime-project",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/05-clonar-repositorio-en-local.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/local-remote.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/04-elegir-tema.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/github-desktop-es/elegir-tema.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_data/navigation.yml",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/03-crear-repositorio-navegador.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/github-pages.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/crear-remoto.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/github-desktop/01-crear-repositorio.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/02-install-desktop.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/01-introduccion.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/17-merge.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/16-colaborar.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/15-push-y-abrir-pr.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/14-revisar-flujo-local.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/13-añadir-sitio-a-showcase.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/07-hacer-cabios-locales.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/12-sync-repo-local.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/08-nuevos-commits-desktop.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/09-abrir-pull-request.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/10-merge-pull-request.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/github-desktop-es/11-ver-tu-sitio.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/rankings2017.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/muestra2017.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/art1-planes-estudio.md",
+		"/D/Dropbox/Google Drive/research/doc/produccion/art1-planes-estudio/art1-planes-estudio-v.internet.md",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/groupspec.groupeng",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/2017-2018/grupos.md",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/grupos2017.csv",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/sample_group_specification.groupeng",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/sample_group_specification_annotated.groupeng",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/groups_groupspec_2017-09-19_10-50-15/groupspec_details.csv",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/groups_groupspec_2017-09-19_10-47-21/groupspec_classlist.csv",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/groups_groupspec_2017-09-19_10-47-21/groupspec_details.csv",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/GroupEng.py",
+		"/D/Dropbox/Google Drive/grado/asignaturas/PWEB Proyectos para la web/groupeng-1.2/sample_class_1.csv",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/00-crear-cuenta-github.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/00-bienvenida.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/05-creando-rama-branch.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/03-explora-repositorio.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/tell-me-why-es/gestionar-notificaciones.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/07-trabajar-en-github.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/help-gh101-common-es.md",
+		"/D/Dropbox/Google Drive/github/training-kit/paths/intro-to-github-es/11-merge-pull-requests.md",
+		"/D/Dropbox/Google Drive/github/training-kit/_includes/activity/intro-to-github-es/05-crear-pull-request.md",
+		"/D/Dropbox/Google Drive/github/LLL/.git/config",
+		"/D/Dropbox/Google Drive/research/doc/produccion/.git/config",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/mberasat/AppData/Roaming/Sublime Text 3/Packages/User/Markdown + Critic.sublime-settings",
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/MultiMarkdown.sublime-settings",
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/MarkdownPreview.sublime-settings",
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/Markdown.sublime-settings",
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/Markdown + Critic.sublime-settings",
+		"/D/Dropbox/Google Drive/github/sublimesettings-old/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 165.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\git-repos\\mberasategi.github.io\\_sass",
+			"D:\\git-repos\\mberasategi.github.io\\_sass\\minimal-mistakes",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\activity",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\tell-me-why-es",
+			"D:\\git-repos\\DeustoPWEB\\training-kit\\_includes\\activity\\github-desktop-es"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" , ",
+			"linked",
+			"$global-font-family",
+			"Flow",
+			".",
+			"/github-desktop/",
+			"pdf",
+			"^([A-Z])",
+			"^([0-9]+)\\n([0-9]+)\\n([a-zA-Z áéíóúñèòù\\/']*)\\n([0-9]+)\\n([0-9]+)\\n([0-9]+)\\n([0-9]+)",
+			"\\([0-9]\\) ",
+			"  ",
+			"   ",
+			"  ",
+			"   ",
+			"    ",
+			"  ",
+			" *   ",
+			"| |",
+			"| | 1 | ",
+			"| | 1 |",
+			"|| 1 |",
+			"| | 1 |",
+			"([0-9]\\,[0-9])",
+			"[0-9]*",
+			"|[0-9]*",
+			"0,7",
+			"[0-9]",
+			"([0-9]+\\,[0-9]+)",
+			"([0-9]+,[0-9]+)",
+			"([0-9]+)  ",
+			" *   ",
+			"|  | 1 |",
+			"  ([0-9\\,]+) ",
+			"([0-9]+)  ",
+			"^([0-9])",
+			"\\n[a-zA-Z áéíóúñè\\(\\)0-9ò\\-]* Logo",
+			"Spain",
+			"\\n",
+			"\\n[a-zA-Z áéíóúñè\\(\\)0-9ò\\-]* Logo",
+			"  ",
+			"^([0-9])",
+			"[x]",
+			"(screenshot)",
+			"]",
+			"[",
+			"png\\n",
+			"\\n\\n",
+			"\" style=\"max-width:100%;\"></a></p>",
+			"<p><a href=\"https://user-images.githubusercontent.com",
+			"\" target=\"_blank\"><img width=\"[0-9]*\" alt=\"[a-zA-Z 0-9\\-]*\" src=\"",
+			"-",
+			"]",
+			"Preferencia de tema // Gaiekiko lehentasuna [",
+			"has abierto",
+			"\\n",
+			"intro-to-github/",
+			"----\n",
+			"fluj",
+			"0098e0",
+			"border-bottom:solid 2px #ff3d3d!important;",
+			"Estimated Total",
+			"Article",
+			"Resources",
+			"hour",
+			"minutes",
+			"On Demand",
+			"Exercise",
+			"\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n- [ ] ",
+			"/github-desktop-es/",
+			"| \\1",
+			"| \\1 | \\2 | \\3 | \\4 | \\5 | \\6 | \\7 |",
+			"",
+			" ",
+			"| | | ",
+			"| ",
+			"| 1 | ",
+			" \\1 | ",
+			"| \\1 |",
+			"|  |  |",
+			"| 1 |",
+			" \\1 | ",
+			"| \\1 | ",
+			"| \\1",
+			" |",
+			"\\n| ",
+			" | ",
+			"|\\1",
+			"[ ]",
+			"[screenshot]",
+			")",
+			"(",
+			"png]\\n\\n",
+			"\\n!(screenshot)[",
+			"\\n",
+			"\\nhttps://user-images.githubusercontent.com",
+			"\\n",
+			"",
+			"\\n\\n",
+			"",
+			",",
+			"intro-to-github-es/",
+			"ccc",
+			"/*border-bottom:solid 2px #ff3d3d!important;*/",
+			"Total estimado",
+			"Artículo",
+			"Recursos",
+			"hora",
+			"minutos",
+			"A demanda",
+			"Ejercicio",
+			"','"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/0-introduccion.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/git-repos/DeustoPWEB/plantilla-proyecto-web/1-estrategia.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 3,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "pweb.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

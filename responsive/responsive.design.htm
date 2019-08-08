@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Diseño adaptable (responsive)</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Diseño adaptable (<em>responsive</em>)</h1>
+</section>
+
+<section class="slide level2">
+
+<blockquote>
+<p>The <strong>control</strong> which designers know in the print medium, and often desire in the web medium, is simply a function of the <strong>limitation of the printed page</strong>. We should embrace the fact that the web doesn’t have the same constraints, and <strong>design for this flexibility</strong>. But first, we must 'accept the ebb and flow of things.'</p>
+</blockquote>
+<p>— John Allsopp, “A Dao of Web Design”</p>
+</section>
+<section id="paso-0" class="slide level2">
+<h2>Paso 0</h2>
+<p>Punto de partida:</p>
+<p><a href="https://codepen.io/justincavery/full/rzfbg">Rejillas rígidas</a></p>
+</section>
+<section id="paso-1" class="slide level2">
+<h2>Paso 1</h2>
+<p><a href="https://alistapart.com/d/responsive-web-design/ex/ex-site-flexible.html">Rejillas flexibles</a></p>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>con imágenes flexibles</li>
+<li>se adapta a visores con formatos horizontales o verticales</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Problemas:</p>
+<ul>
+<li>en visores pequeños, los elementos se empiezan a <em>pisar</em> unos a otros</li>
+<li>en visores muy grandes, las imágenes adoptan tamaños descomunales</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p>Conclusión:</p>
+<p>El diseño flexible funciona bien en contextos de escritorio para los que fue diseñado, pero no está optimizado para extenderse mucho más allá.</p>
+</section>
+<section id="siguiente-paso-convertirse-en-adaptable" class="slide level2">
+<h2>Siguiente paso: convertirse en adaptable</h2>
+<p>En lugar de hacer diseños desconectados &quot;a medida&quot; para un número siempre creciente de dispositivos muy diversos, deberían tratarse como <strong>facetas de la misma experiencia</strong>.</p>
+<p>¿Cómo? Mediante el diseño web adaptable (<em>responsive web design</em>)</p>
+</section>
+<section class="slide level2">
+
+<p>CSS3 permite recopilar información no solamente sobre el tipo de medio (pantalla, impresión...), sino sobre características concretas del medio (como su tamaño o resolución, por ejemplo) a través de los <code>media queries</code>.</p>
+</section>
+<section class="slide level2">
+
+<p>Convertir el diseño en una única columna:</p>
+<pre><code>@media screen and (max-width: 600px) {
+  .mast,
+  .intro,
+  .main,
+  .footer {
+    float: none;
+    width: auto;
+  }
+}</code></pre>
+<p><a href="https://alistapart.com/d/responsive-web-design/ex/ex-site-linearize.html">Ejemplo mejorado</a></p>
+</section>
+<section class="slide level2">
+
+<p>El uso de los <code>media queries</code> permite cambios más allá de la simple ubicación de las imágenes: es posible introducir <em>layouts</em> alternativos adaptados realmente a las necesidades de cada rango de resoluciones.</p>
+<p><a href="https://alistapart.com/d/responsive-web-design/ex/ex-site-FINAL.html">Ejemplo final</a></p>
+</section>
+<section class="slide level2">
+
+<p>El diseño adaptable tampoco se limita a las modificaciones de disposición. Permite resaltar los elementos más importantes para visores pequeños; mostrar u ocultar elementos selectivamete para mejorar la navegación; o adaptar los tamaños de letra de titulares y demás textos para optimizar la lectura.</p>
+</section>
+<section id="resumen" class="slide level2">
+<h2>Resumen</h2>
+<p>El diseño adaptable (<em>responsive web design</em>) se compone de tres ingredientes técnicos:</p>
+<ol type="1">
+<li>Rejillas fluidas</li>
+<li>Imágenes flexibles</li>
+<li><code>Media queries</code></li>
+</ol>
+</section>
+<section class="slide level2">
+
+<p>En lugar de destinar nuestro contenido a compartimentos estancos sobre-adaptados a dispositivos con fecha de caducidad, podemos plantear diseños que muestren lo más destacable de la experiencia en cada contexto.</p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
